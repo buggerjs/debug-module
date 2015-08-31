@@ -1,0 +1,34 @@
+{
+  "name": "debug-module",
+  "version": "1.0.0",
+  "description": "A Module in debug context",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "Jan Krems <jan.krems@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.2.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buggerjs/debug-module.git"
+  },
+  "keywords": [
+    "debug",
+    "module",
+    "v8"
+  ],
+  "bugs": {
+    "url": "https://github.com/buggerjs/debug-module/issues"
+  },
+  "homepage": "https://github.com/buggerjs/debug-module"
+}
